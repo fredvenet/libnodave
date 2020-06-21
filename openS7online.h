@@ -19,6 +19,7 @@
 */
 #ifndef __openS7online
 #define __openS7online
+/* Dep */
 
 
 #ifdef __cplusplus
