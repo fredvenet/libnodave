@@ -17,7 +17,7 @@
 */
 
 extern int daveDebug;
-
+/* Fred */
 typedef int (DECL2 * _setHWnd) (int, HWND);
 
 EXPORTSPEC HANDLE DECL2 openS7online(const char * accessPoint, HWND handle) {
